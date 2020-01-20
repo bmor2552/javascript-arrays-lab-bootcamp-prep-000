@@ -17,11 +17,11 @@ function destructivelyRemoveFirstKitten(name){
 
 
 function appendKitten(name) {
-kittens.concat(name)
+return concat(name)
 }
 
 function prependKitten(name){
-
+return concat(name)
 }
 
 function removeLastKitten(){
