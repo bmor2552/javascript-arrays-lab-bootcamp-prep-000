@@ -21,7 +21,7 @@ function appendKitten(name) {
 }
 
 function prependKitten(name){
-return Array = name.concat(['Milo', 'Otis', 'Garfield'])
+return Array = name.concat([, 'Milo', 'Otis', 'Garfield'])
 }
 
 function removeLastKitten(){
