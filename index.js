@@ -17,7 +17,7 @@ function destructivelyRemoveFirstKitten(name){
 
 
 function appendKitten(name) {
- Array = ['Milo', 'Otis', 'Garfield'].concat(name)
+ return Array = ['Milo', 'Otis', 'Garfield'].concat(name)
 }
 
 function prependKitten(name){
